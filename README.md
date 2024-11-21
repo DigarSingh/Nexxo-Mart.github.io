@@ -34,3 +34,39 @@ This project will utilize:
 
 ## 🏗️ Project Structure
 
+nexxo-mart/ ├── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Website pages (Home, Shop, Cart, etc.) │ ├── assets/ # Images and other static files │ ├── styles/ # Global CSS styles │ ├── utils/ # Utility functions │ └── api/ # API integrations ├── server/ # Backend server files ├── database/ # Database schema and configurations └── README.md # Project documentation
+
+
+---
+
+## 💡 Roadmap
+
+1. **UI/UX Design:** Interactive and user-friendly designs.
+2. **Frontend Development:** Dynamic and responsive pages.
+3. **Backend API Integration:** Secure and scalable APIs.
+4. **Testing & Deployment:** Ensure quality and performance.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions to **Nexxo-Mart**!
+- Fork the repository.
+- Make your changes and submit a pull request.
+- Stay updated with the issues section for feature requests and bug fixes.
+
+---
+
+## 📧 Contact
+
+For queries or collaboration opportunities, reach out:
+- **Email:** nexxomart@example.com
+- **GitHub:** https://github.com/digarsingh/nexxo-mart
+
+---
+
+### 🙌 Thank You for Visiting
+
+Your support means a lot to us. Stay tuned for more updates as we build **Nexxo-Mart** into a next-generation e-commerce experience!
+
+

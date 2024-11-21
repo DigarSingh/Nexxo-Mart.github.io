@@ -29,12 +29,7 @@ An innovative e-commerce platform designed to bring you the best shopping experi
 ## 🛠️ Technologies Used
 
 This project will utilize:
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Payment Gateway:** Razorpay/Stripe
-- **Hosting:** AWS/Netlify
-
+- **Frontend:** HTML, CSS, JavaScript,
 ---
 
 ## 🏗️ Project Structure

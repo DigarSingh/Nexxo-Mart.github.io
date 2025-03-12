@@ -61,7 +61,7 @@ We welcome contributions to **Nexxo-Mart**!
 
 For queries or collaboration opportunities, reach out:
 - **Email:** digarsingh2004@gmail.com
-- **GitHub:** https://github.com/DigarSingh/nexxo-mart
+- **GitHub:** https://github.com/DigarSingh/Nexxo-Mart.github.io
 
 ---
 

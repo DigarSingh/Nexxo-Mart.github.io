@@ -60,8 +60,8 @@ We welcome contributions to **Nexxo-Mart**!
 ## 📧 Contact
 
 For queries or collaboration opportunities, reach out:
-- **Email:** nexxomart@example.com
-- **GitHub:** https://github.com/digarsingh/nexxo-mart
+- **Email:** digarsingh2004@gmail.com
+- **GitHub:** https://github.com/DigarSingh/nexxo-mart
 
 ---
 
